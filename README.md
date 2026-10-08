@@ -1,2 +1,3 @@
 # Price-Calculator
-Latihan dari soal roadmap.sh, linknya: 
+ 
+https://roadmap.sh/projects/js-price-calculator
